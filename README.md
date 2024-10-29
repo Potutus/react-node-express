@@ -6,12 +6,12 @@
 
 ```код () => {}```
 
-просто тексn
+просто текст
 > цитата
 
 ссылка на загаловок 1: [текст ссылки](#загаловок-1)
 
-ссылка на полную документацию по синтаксису: [readme.md синтаксис](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+ссылка на полную документацию по синтаксису: [readme.md синтаксис](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!NOTE]
 > Полезная информация
